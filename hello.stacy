@@ -1,0 +1,5 @@
+STACYS MOM HAS GOT IT GOING ON | RUNTIME=0.1
+
+HOLLA("Reyzr's mom has got it going on~");
+WAIT_FOR_SO_LONG(2000);
+HOLLA("I waited for SO long..");
