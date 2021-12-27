@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/stacys_mom_lang
+stacys_mom_lang.so
+stacys_mom_lang.dylib
+stacys_mom_lang.dll
+stacys_mom_lang.a
+stacys_mom_lang.lib
+stacys_mom_lang-test-*
+*.exe
+*.o
+*.obj
+*.lst
